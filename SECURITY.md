@@ -15,7 +15,7 @@ releases are not patched.
 Please do not open a public issue for a security problem.
 
 Report it privately through GitHub's advisory form:
-https://github.com/jub0t/Concat/security/advisories/new
+https://github.com/quyen2867/cutcut/security/advisories/new
 
 Include the version (Settings › About), the platform, and steps to
 reproduce. A proof of concept helps; a project file that triggers the

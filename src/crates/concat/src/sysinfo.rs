@@ -87,7 +87,7 @@ pub fn system_facts() -> Vec<(String, String)> {
         // The adapter the window and the monitor draw on, and whether it is
         // a GPU at all. A machine that fell back to WARP looks like any
         // other in the window, and the difference was the whole story of
-        // https://github.com/jub0t/Concat/issues/135
+        // https://github.com/quyen2867/cutcut/issues/135
         (
             t("Graphics"),
             crate::gpu::adapter_description().unwrap_or("none").into(),

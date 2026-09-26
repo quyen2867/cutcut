@@ -149,7 +149,7 @@ fn timeline_of(clips: usize, tracks: usize) -> Timeline {
 /// Ripple-deleting every other clip of a four-hundred-clip cut, on four
 /// lanes: the gap-closing walks every survivor against every removed span
 /// on its lane, and a rough cut does this after every single deletion.
-/// https://github.com/jub0t/Concat/issues/106
+/// https://github.com/quyen2867/cutcut/issues/106
 fn ripple_delete_of_200() -> Measure {
     let mut editor = Editor::new();
     let media_id = editor

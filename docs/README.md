@@ -1,4 +1,4 @@
-<!-- https://github.com/jub0t/Concat/issues/123 -->
+<!-- https://github.com/quyen2867/cutcut/issues/123 -->
 
 # Concat developer docs
 

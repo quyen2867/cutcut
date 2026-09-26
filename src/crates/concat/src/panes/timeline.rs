@@ -54,7 +54,7 @@ pub enum TimelineMsg {
     SnapToggled,
     /// The magnetic timeline, from the tray's button or the Settings
     /// switch. A preference, not view state: it is remembered.
-    /// https://github.com/jub0t/Concat/issues/106
+    /// https://github.com/quyen2867/cutcut/issues/106
     MagneticChanged(bool),
     /// The menu's Magnetic row: the other way round.
     MagneticToggled,

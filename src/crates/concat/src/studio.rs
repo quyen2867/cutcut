@@ -442,7 +442,7 @@ pub enum Gesture {
     /// the same terms as [`Gesture::TextWidth`] pulls the width. Before
     /// this the two grips fell through to a stretch, and a caption pulled
     /// to fit came out with its glyphs squashed.
-    /// https://github.com/jub0t/Concat/issues/119
+    /// https://github.com/quyen2867/cutcut/issues/119
     TextHeight {
         clip: String,
         centre: (f64, f64),
@@ -3538,7 +3538,7 @@ impl Studio {
                         },
                         delta,
                         // Magnetic: the lane closes behind the edge.
-                        // https://github.com/jub0t/Concat/issues/106
+                        // https://github.com/quyen2867/cutcut/issues/106
                         ripple: self.prefs.magnetic,
                     });
                     // Trim follow: a magnetic head trim slides the clip back
@@ -4039,7 +4039,7 @@ impl Studio {
         // Then pulled along each axis, as the compositor pulls it - a
         // picture, that is. A title's box is its style's, and the compositor
         // never stretches one; see titles.rs.
-        // https://github.com/jub0t/Concat/issues/119
+        // https://github.com/quyen2867/cutcut/issues/119
         let (w, h) = if clip.kind == model::ClipKind::Text {
             (w, h)
         } else {
@@ -4271,7 +4271,7 @@ impl Studio {
             }
         } else if (grip == 5 || grip == 7) && clip.kind == model::ClipKind::Text {
             // And the top and bottom grips size its box, never its glyphs.
-            // https://github.com/jub0t/Concat/issues/119
+            // https://github.com/quyen2867/cutcut/issues/119
             Gesture::TextHeight {
                 clip: id.to_owned(),
                 centre,
@@ -5314,7 +5314,7 @@ impl Studio {
 
     /// Ripple delete (⇧⌫): the selection goes and each lane closes behind
     /// it, so a rough cut needs no dragging-left after every deletion.
-    /// https://github.com/jub0t/Concat/issues/106
+    /// https://github.com/quyen2867/cutcut/issues/106
     pub fn ripple_delete_selected(&mut self) {
         self.remove_selected(true);
     }
@@ -6326,7 +6326,7 @@ impl Studio {
         editor.set_selected_count(self.selection.len() as i32);
         // The tray's undo and redo buttons grey out on these; the Edit menu
         // asks the session itself when it opens.
-        // https://github.com/jub0t/Concat/issues/154
+        // https://github.com/quyen2867/cutcut/issues/154
         let (can_undo, can_redo) = self.session.as_ref().map_or((false, false), |session| {
             (session.can_undo(), session.can_redo())
         });
@@ -7863,7 +7863,7 @@ impl Studio {
     /// it read as a property of the cut. Auto is the file's tag, and the
     /// codec's convention where there is none; see
     /// `concat_media::ColorRange::implied`.
-    /// https://github.com/jub0t/Concat/issues/103
+    /// https://github.com/quyen2867/cutcut/issues/103
     fn media_menu(&self, id: &str) -> Vec<MenuItemData> {
         let Some(item) = self.project().media_by_id(id) else {
             return Vec::new();

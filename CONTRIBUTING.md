@@ -6,18 +6,17 @@ reporting what broke.
 
 ## The most valuable thing you can do
 
-Grab a build from the [Releases](https://github.com/jub0t/Concat/releases) page
+Grab a build from the [Releases](https://github.com/quyen2867/cutcut/releases) page
 and edit a real video with it. Real footage finds what no reading of the
 source does. A good bug report — what you did, what happened, your
 OS, the media you used — is worth more than most patches.
 
 Longer-form discussion lives in
-[the contribution discussion](https://github.com/jub0t/Concat/discussions/3)
-and on [Discord](https://discord.gg/DVuPfpXfqP).
+[the contribution discussion](https://github.com/quyen2867/cutcut/discussions/3).
 
 ## Before you write code
 
-Open an issue or drop into Discord first for anything beyond a small fix. Large
+Open an issue first for anything beyond a small fix. Large
 areas are already in progress or intentionally deferred, and it is genuinely
 no fun to review a big PR that has to be turned down for reasons that were
 invisible from outside.
@@ -119,5 +118,4 @@ under your own name.
 
 ## Conduct
 
-[`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) applies to the repo, the Discussions
-and Discord.
+[`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) applies to the repo and the Discussions.

@@ -280,7 +280,7 @@ pub struct ExportSpec {
     /// "limited" (16-235, what every player and YouTube expect) or "full"
     /// (0-255, for screen content bound for a PC player that reads the
     /// tag). Limited when absent.
-    /// https://github.com/jub0t/Concat/issues/103
+    /// https://github.com/quyen2867/cutcut/issues/103
     #[serde(default)]
     pub color_range: Option<String>,
 }

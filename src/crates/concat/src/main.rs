@@ -13,6 +13,6 @@ fn main() -> Result<(), slint::PlatformError> {
     concat::open_logging(None);
     // A failure here is the one this binary would otherwise swallow: with
     // no console, the runtime's "Error: ..." on standard error is lost.
-    // https://github.com/jub0t/Concat/issues/135
+    // https://github.com/quyen2867/cutcut/issues/135
     concat::run().inspect_err(concat::report_startup_failure)
 }

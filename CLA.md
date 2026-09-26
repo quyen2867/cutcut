@@ -20,7 +20,7 @@ other form — you agree to the following.
 **"You"** means the individual or legal entity submitting the contribution.
 **"Contribution"** means any original work of authorship you intentionally
 submit for inclusion in Concat. **"Project"** means Concat and the maintainers
-of the repository at <https://github.com/jub0t/Concat>.
+of the repository at <https://github.com/quyen2867/cutcut>.
 
 ## 2. Copyright licence
 

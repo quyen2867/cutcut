@@ -172,7 +172,7 @@ component Clip inherits Rectangle {
     /// under its frames, a third of the body and never a sliver, and there
     /// whether or not the file has sound - a silent file shows the empty
     /// band, so a video that has gone quiet is tellable from one that
-    /// never spoke. https://github.com/jub0t/Concat/issues/137
+    /// never spoke. https://github.com/quyen2867/cutcut/issues/137
     property <bool> banded: root.item.kind == ClipKind.video;
     property <length> band-h: root.banded
         ? Math.clamp(root.body-h * 0.34, 8px, 30px)

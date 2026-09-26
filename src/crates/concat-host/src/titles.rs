@@ -164,7 +164,7 @@ impl Titles {
                     // 0.2.2's side grips wrote a stretch onto title clips
                     // to make a long caption fit, and honouring it here
                     // kept those captions squashed after the wrap arrived.
-                    // https://github.com/jub0t/Concat/issues/119
+                    // https://github.com/quyen2867/cutcut/issues/119
                     stretch_x: 1.0,
                     stretch_y: 1.0,
                     // The style's own opacity multiplies the clip's: a
@@ -465,7 +465,7 @@ mod tests {
     /// A title clip carrying a stretch - what 0.2.2's side grips wrote to
     /// make a long caption fit - comes back unstretched: the words wrap
     /// now, and a squashed glyph was never wanted.
-    /// https://github.com/jub0t/Concat/issues/119
+    /// https://github.com/quyen2867/cutcut/issues/119
     #[test]
     fn a_title_is_never_stretched_whatever_its_clip_says() {
         let dirs = scratch();

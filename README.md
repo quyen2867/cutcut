@@ -2,7 +2,7 @@
 <table width="100%">
   <tr>
     <td align="left" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/jub0t/Concat@main/assets/logo-dark.png" alt="Concat" width="100" />
+      <img src="https://cdn.jsdelivr.net/gh/quyen2867/cutcut@main/assets/logo-dark.png" alt="Concat" width="100" />
     </td>
     <td align="">
       <h1>Concat</h1>
@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-<img src="https://cdn.jsdelivr.net/gh/jub0t/Concat@main/assets/editor.png" alt="Concat editor" width="100%" />
+<img src="https://cdn.jsdelivr.net/gh/quyen2867/cutcut@main/assets/editor.png" alt="Concat editor" width="100%" />
 
 <table width="100%">
   <tr>
@@ -45,12 +45,10 @@
 </table>
 
 <p align="center">
-  <a href="https://github.com/jub0t/Concat/releases"><img src="https://img.shields.io/github/downloads/jub0t/concat/total?style=flat-square&logo=github&logoColor=F8F8F8&label=Downloads&labelColor=212123&color=b394ff" alt="Total Downloads" /></a>
-  <a href="https://github.com/jub0t/Concat/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/jub0t/Concat/ci.yml?style=flat&logo=githubactions&logoColor=F8F8F8&label=Build&labelColor=000000" alt="Build Status" /></a>
-  <a href="https://github.com/jub0t/Concat/releases"><img src="https://img.shields.io/badge/Version-0.2.4-b394ff?style=flat-square&logo=semver&logoColor=F8F8F8&labelColor=212123" alt="Concat Version 0.2.4" /></a>
-  <a href="https://discord.gg/DVuPfpXfqP"><img src="https://img.shields.io/badge/Discord-Join%20the%20server-5865F2?style=flat&logo=discord&logoColor=F8F8F8&labelColor=000000" alt="Join Concat Discord" /></a>
+  <a href="https://github.com/quyen2867/cutcut/releases"><img src="https://img.shields.io/github/downloads/quyen2867/cutcut/total?style=flat-square&logo=github&logoColor=F8F8F8&label=Downloads&labelColor=212123&color=b394ff" alt="Total Downloads" /></a>
+  <a href="https://github.com/quyen2867/cutcut/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/quyen2867/cutcut/ci.yml?style=flat&logo=githubactions&logoColor=F8F8F8&label=Build&labelColor=000000" alt="Build Status" /></a>
+  <a href="https://github.com/quyen2867/cutcut/releases"><img src="https://img.shields.io/badge/Version-0.2.4-b394ff?style=flat-square&logo=semver&logoColor=F8F8F8&labelColor=212123" alt="Concat Version 0.2.4" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-AGPL%20v3-b394ff?style=flat-square&logo=gnu&logoColor=F8F8F8&labelColor=212123" alt="License: AGPL-3.0-or-later" /></a>
-  <a href="https://www.patreon.com/5012480/join"><img src="https://img.shields.io/badge/Patreon-Become%20a%20patron-b394ff?style=flat-square&logo=patreon&logoColor=F8F8F8&labelColor=212123" alt="Sponsor Concat on Patreon" /></a>
 </p>
 
 
@@ -90,9 +88,9 @@ Everything runs locally on a native Rust engine with a GPU compositor. Install i
 Two ways in:
 
 1. **[The website](https://concatenate.pages.dev/#download)** hands you the right build for your machine. Start here.
-2. **[GitHub Releases](https://github.com/jub0t/Concat/releases)** has every build for every platform, with installers, packages and checksums. For when you want to pick.
+2. **[GitHub Releases](https://github.com/quyen2867/cutcut/releases)** has every build for every platform, with installers, packages and checksums. For when you want to pick.
 
-Concat is in **beta**: it works, and it still has edges. [Say so](https://github.com/jub0t/Concat/issues) when you find one.
+Concat is in **beta**: it works, and it still has edges. [Say so](https://github.com/quyen2867/cutcut/issues) when you find one.
 
 **Platforms**
 
@@ -121,53 +119,28 @@ Optional models download from Settings on first use and then never need the netw
 
 Download it, open it, drop footage in, cut. No account, no setup.
 
-**Reporting something:** every run writes a log, and Settings › About has the button that opens it along with the one that copies your system information. Attach both to an [issue](https://github.com/jub0t/Concat/issues) and the report arrives with everything it needs. The last ten runs are kept, so yesterday's is still there; nothing is ever sent anywhere on its own.
+**Reporting something:** every run writes a log, and Settings › About has the button that opens it along with the one that copies your system information. Attach both to an [issue](https://github.com/quyen2867/cutcut/issues) and the report arrives with everything it needs. The last ten runs are kept, so yesterday's is still there; nothing is ever sent anywhere on its own.
 
 ## How to Contribute
 
 > [!IMPORTANT]
-> The best way to contribute is to grab a build from the [Releases](https://github.com/jub0t/Concat/releases) page and use it: find where it breaks, and say where it could be better.
+> The best way to contribute is to grab a build from the [Releases](https://github.com/quyen2867/cutcut/releases) page and use it: find where it breaks, and say where it could be better.
 >
-> Ready to write code? [CONTRIBUTING.md](./CONTRIBUTING.md) covers setup, the layout of the tree, the checks to run, and how contributions are licensed. Driving Concat from a script, a service or an agent? [docs/](./docs/README.md) is the developer reference for the Concat API and its transports: JSON-RPC, gRPC and MCP. [This Discussion](https://github.com/jub0t/Concat/discussions/3) is where the project was announced.
-> 
-> Contributors are free to claim a `@Contributor` role in the Discord server, just ask for it.
+> Ready to write code? [CONTRIBUTING.md](./CONTRIBUTING.md) covers setup, the layout of the tree, the checks to run, and how contributions are licensed. Driving Concat from a script, a service or an agent? [docs/](./docs/README.md) is the developer reference for the Concat API and its transports: JSON-RPC, gRPC and MCP. [This Discussion](https://github.com/quyen2867/cutcut/discussions/3) is where the project was announced.
 
 ## Contributors
 
-<a href="https://github.com/jub0t/Concat/graphs/contributors">
-  <img alt="Contributors" src="https://contrib.rocks/image?repo=jub0t/concat">
+<a href="https://github.com/quyen2867/cutcut/graphs/contributors">
+  <img alt="Contributors" src="https://contrib.rocks/image?repo=quyen2867/cutcut">
 </a>
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=jub0t%2Fconcat&type=date&releases=&legend=bottom-right">
+<a href="https://www.star-history.com/?repos=quyen2867%2Fcutcut&type=date&releases=&legend=bottom-right">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=jub0t/concat&type=date&theme=dark&legend=bottom-right" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=jub0t/concat&type=date&legend=bottom-right" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=jub0t/concat&type=date&legend=bottom-right" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=quyen2867/cutcut&type=date&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=quyen2867/cutcut&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=quyen2867/cutcut&type=date&legend=bottom-right" />
  </picture>
 </a>
 
-## Sponsoring
-
-Concat has no paywall and never will: no watermark, no account, no paid tier. Sponsoring is what stands in for one. If Concat has taken the place of a subscription for you, a fraction of that keeps it going.
-
-**Where it goes**
-
-The [ROADMAP](./ROADMAP.MD) lays out what sponsorship pays for, and what each piece costs.
-
-**Payment Methods**
-
-Monthly through Patreon, or straight to a wallet.
-
-| Method | Address |
-|---|---|
-| 🧡 **Patreon** | <a href="https://www.patreon.com/5012480/join"><img src="https://img.shields.io/badge/Patreon-Become%20a%20patron-b394ff?style=flat-square&logo=patreon&logoColor=F8F8F8&labelColor=212123" alt="Become a patron of Concat" /></a> |
-| ₿ **Bitcoin** (BTC) | `bc1qm83zxguthu0swkl0kw4wdna9j8qegkekzxcf6s` |
-| ɱ **Monero** (XMR) | `46vFjD41NbNdf7yfdm2WYmJidaaExYpA1RaDnayjFyp7KCtCeMfjNKudKbSt52rHvLLuowwpeoNpFUkAtSca3L6TSXfAzcf` |
-| Ł **Litecoin** (LTC) | `LbaYr9JEiUUJB5S9rEgriseMoPoUZzAaZS` |
-
-> [!IMPORTANT]
-> Donated in crypto? A wallet transfer carries no name, so do say hello: reach out through any of the socials on [the maintainer's GitHub profile](https://github.com/jub0t), or in the [Concat Discord server](https://discord.gg/DVuPfpXfqP).
-
-Not in a position to chip in? A star, a bug report, or a word to someone who edits video counts for a lot too.

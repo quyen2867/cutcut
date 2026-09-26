@@ -203,7 +203,7 @@
 
           meta = {
             description = "Free and open source video editor";
-            homepage = "https://github.com/jub0t/Concat";
+            homepage = "https://github.com/quyen2867/cutcut";
             license = pkgs.lib.licenses.agpl3Plus;
             platforms = systems;
             mainProgram = "concat";

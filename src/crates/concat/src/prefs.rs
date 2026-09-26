@@ -45,7 +45,7 @@ pub struct Preferences {
     /// The magnetic timeline: a delete and a trim close the gap they would
     /// leave, on the lane they happen on. Off by default, because a gap is
     /// sometimes the point; ⇧⌫ ripples either way.
-    /// https://github.com/jub0t/Concat/issues/106
+    /// https://github.com/quyen2867/cutcut/issues/106
     pub magnetic: bool,
     /// Trim follow: while a clip's edge is dragged, the playhead rides the
     /// edge, so the monitor shows the exact frame the cut lands on. Off by

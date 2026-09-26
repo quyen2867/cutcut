@@ -39,7 +39,7 @@ pub struct ExportSpec {
     pub bitrate_kbps: u32,
     /// The levels the file is written in and tagged with. Video range,
     /// 16-235, unless the sheet's Advanced section says full.
-    /// https://github.com/jub0t/Concat/issues/103
+    /// https://github.com/quyen2867/cutcut/issues/103
     pub color_range: ColorRange,
 }
 

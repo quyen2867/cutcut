@@ -34,7 +34,7 @@ import { TimelineTool } from "model.slint";
 // Undo and redo are on the bar for whoever edits with a mouse or a finger
 // and never learns ⌘Z: the shortcut is in the tip, and the button greys
 // out when the history has nothing that way, the same truth the Edit menu
-// tells. https://github.com/jub0t/Concat/issues/154
+// tells. https://github.com/quyen2867/cutcut/issues/154
 
 component Divider inherits Rectangle {
     width: 9px;
@@ -246,7 +246,7 @@ export component TimelineTray inherits Rectangle {
         }
         // The magnetic timeline, beside the snap it is so often mistaken
         // for: snap is where a drag lands, magnetic is that a delete or a
-        // trim leaves no hole. https://github.com/jub0t/Concat/issues/106
+        // trim leaves no hole. https://github.com/quyen2867/cutcut/issues/106
         TrayButton {
             glyph: Glyph.fold;
             label: I18n.t("Magnetic timeline: deleting and trimming close the gap");

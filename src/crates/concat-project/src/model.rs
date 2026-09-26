@@ -103,7 +103,7 @@ pub struct AudioTrack {
 /// should be black until it is read as `full`; a video-range file tagged
 /// full crushes its shadows until it is read as `limited`. Set with
 /// `Command::SetMediaColorRange`; absent means the file's own tag is read.
-/// https://github.com/jub0t/Concat/issues/103
+/// https://github.com/quyen2867/cutcut/issues/103
 #[derive(Clone, Copy, PartialEq, Eq, Debug, Serialize, Deserialize)]
 #[serde(rename_all = "lowercase")]
 pub enum ColorRange {
@@ -901,7 +901,7 @@ pub struct TextStyle {
     /// default - is the words' own height. With a height the block is a
     /// box exactly that tall, the words centred in it, so a lower third
     /// can be a band of a fixed size whatever is written on it.
-    /// https://github.com/jub0t/Concat/issues/119
+    /// https://github.com/quyen2867/cutcut/issues/119
     pub max_height: f64,
 }
 

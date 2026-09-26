@@ -29,7 +29,7 @@
 
     <Icon Id="concat.ico" SourceFile="$(var.Root)\assets\icons\concat.ico" />
     <Property Id="ARPPRODUCTICON" Value="concat.ico" />
-    <Property Id="ARPURLINFOABOUT" Value="https://github.com/jub0t/Concat" />
+    <Property Id="ARPURLINFOABOUT" Value="https://github.com/quyen2867/cutcut" />
 
     <StandardDirectory Id="ProgramFiles64Folder">
       <Directory Id="INSTALLFOLDER" Name="Concat" />

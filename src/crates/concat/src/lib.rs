@@ -91,7 +91,7 @@ pub fn open_logging(extra: Option<Box<dyn log::Log>>) {
 /// what a packaged GUI build has no console for. Each entry point calls
 /// this on the error before letting it go, so the reason is in the log and
 /// in a dialog, not only in a console that was never there.
-/// https://github.com/jub0t/Concat/issues/135
+/// https://github.com/quyen2867/cutcut/issues/135
 pub fn report_startup_failure(error: &slint::PlatformError) {
     let error = error.to_string();
     log::error!("could not start: {error}");

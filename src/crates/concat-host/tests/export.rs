@@ -979,7 +979,7 @@ fn an_hlg_clip_exports_through_the_gpu_conversion() {
 /// of that second; named limited, or cleared, it reads true again. And an
 /// export written full range is tagged so and plays its seconds back
 /// true, because the tag the encoder wrote is the tag the decoder reads.
-/// https://github.com/jub0t/Concat/issues/103
+/// https://github.com/quyen2867/cutcut/issues/103
 #[test]
 fn a_colour_range_named_on_the_media_reaches_the_export() {
     let scratch = Scratch::new("range");

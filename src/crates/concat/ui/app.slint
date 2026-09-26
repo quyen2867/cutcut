@@ -68,8 +68,8 @@ export component App inherits Window {
     // them off with: the winit backend re-applies `no-frame` to the
     // window after it is made, over whatever the attributes asked for, so
     // a hook alone left GNOME drawing its bar above ours:
-    // https://github.com/jub0t/Concat/issues/97
-    // https://github.com/jub0t/Concat/issues/145
+    // https://github.com/quyen2867/cutcut/issues/97
+    // https://github.com/quyen2867/cutcut/issues/145
     no-frame: root.own-window-buttons;
     background: Theme.page;
     default-font-family: Theme.font;
@@ -406,7 +406,7 @@ export component App inherits Window {
             if (event.text == Key.Space) { Editor.play-toggled(); return accept; }
             // Shift closes the gap the deletion leaves - the ripple delete
             // of every other editor, on the key they all use for it.
-            // https://github.com/jub0t/Concat/issues/106
+            // https://github.com/quyen2867/cutcut/issues/106
             if (event.text == Key.Delete || event.text == Key.Backspace) {
                 if (event.modifiers.shift) {
                     Editor.shortcut("ripple-delete");

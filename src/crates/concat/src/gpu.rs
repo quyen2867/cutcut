@@ -70,7 +70,7 @@ impl Gpu {
         // Broadwell-era chips do not have - the adapter that comes back is
         // WARP, Windows' software rasteriser. The window still opens on it;
         // see `is_software` and platform.rs for what that changes.
-        // https://github.com/jub0t/Concat/issues/135
+        // https://github.com/quyen2867/cutcut/issues/135
         let info = adapter.get_info();
         log::info!(
             "GPU adapter: {} ({:?}, {:?}, driver {})",

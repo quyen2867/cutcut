@@ -174,7 +174,7 @@ pub struct EncodeOptions {
     /// 0-255, for screen content bound for a PC player that reads the
     /// tag. The RGB to YUV conversion follows the choice, so the tag is
     /// true either way. Video range unless told otherwise.
-    /// https://github.com/jub0t/Concat/issues/103
+    /// https://github.com/quyen2867/cutcut/issues/103
     pub color_range: ColorRange,
     /// Let the platform's hardware encoder lead where there is one; see
     /// [`VideoCodec::encoders`].
@@ -924,7 +924,7 @@ mod tests {
     /// they went in - as do a video-range file's. The decoder reads the
     /// tag the encoder wrote, so a black that comes back black in both
     /// is a conversion that matched its tag in both.
-    /// https://github.com/jub0t/Concat/issues/103
+    /// https://github.com/quyen2867/cutcut/issues/103
     #[test]
     fn each_range_is_tagged_and_keeps_its_levels() {
         use crate::decode::{DecodeOptions, Decoder, FrameSource};
