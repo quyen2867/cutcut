@@ -54,6 +54,9 @@
 
 </div>
 
+<p align="center">
+  <b>English</b> | <a href="./README.vi.md">Tiếng Việt</a>
+</p>
 
 ## About
 
