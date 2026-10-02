@@ -6,144 +6,139 @@
     </td>
     <td align="">
       <h1>Concat</h1>
-      <h3 style="margin-top: -10px;">The truly free, and open-source cross-platform CapCut replacement.</h3>
+      <h3 style="margin-top: -10px;">Trình thay thế CapCut hoàn toàn miễn phí, mã nguồn mở, đa nền tảng.</h3>
     </td>
   </tr>
 </table>
 
-<img src="https://cdn.jsdelivr.net/gh/quyen2867/cutcut@main/assets/editor.png" alt="Concat editor" width="100%" />
+<img src="https://cdn.jsdelivr.net/gh/quyen2867/cutcut@main/assets/editor.png" alt="Trình chỉnh sửa Concat" width="100%" />
 
 <table width="100%">
   <tr>
     <td align="center" width="33%">
-      <a href="#sponsoring"><b>Your logo here</b></a><br />
-      <sub><a href="#sponsoring">Sponsor Concat</a> and your name, logo and link take this slot</sub>
+      <a href="#sponsoring"><b>Logo của bạn ở đây</b></a><br />
+      <sub><a href="#sponsoring">Tài trợ Concat</a> và tên, logo, liên kết của bạn sẽ hiện ở vị trí này</sub>
     </td>
     <td align="center" width="34%">
-      <a href="#sponsoring"><b>Your logo here</b></a><br />
-      <sub><a href="#sponsoring">Sponsor Concat</a> and your name, logo and link take this slot</sub>
+      <a href="#sponsoring"><b>Logo của bạn ở đây</b></a><br />
+      <sub><a href="#sponsoring">Tài trợ Concat</a> và tên, logo, liên kết của bạn sẽ hiện ở vị trí này</sub>
     </td>
     <td align="center" width="33%">
-      <a href="#sponsoring"><b>Your logo here</b></a><br />
-      <sub><a href="#sponsoring">Sponsor Concat</a> and your name, logo and link take this slot</sub>
+      <a href="#sponsoring"><b>Logo của bạn ở đây</b></a><br />
+      <sub><a href="#sponsoring">Tài trợ Concat</a> và tên, logo, liên kết của bạn sẽ hiện ở vị trí này</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="#sponsoring"><b>Your logo here</b></a><br />
-      <sub><a href="#sponsoring">Sponsor Concat</a> and your name, logo and link take this slot</sub>
+      <a href="#sponsoring"><b>Logo của bạn ở đây</b></a><br />
+      <sub><a href="#sponsoring">Tài trợ Concat</a> và tên, logo, liên kết của bạn sẽ hiện ở vị trí này</sub>
     </td>
     <td align="center" width="34%">
-      <a href="#sponsoring"><b>Your logo here</b></a><br />
-      <sub><a href="#sponsoring">Sponsor Concat</a> and your name, logo and link take this slot</sub>
+      <a href="#sponsoring"><b>Logo của bạn ở đây</b></a><br />
+      <sub><a href="#sponsoring">Tài trợ Concat</a> và tên, logo, liên kết của bạn sẽ hiện ở vị trí này</sub>
     </td>
     <td align="center" width="33%">
-      <a href="#sponsoring"><b>Your logo here</b></a><br />
-      <sub><a href="#sponsoring">Sponsor Concat</a> and your name, logo and link take this slot</sub>
+      <a href="#sponsoring"><b>Logo của bạn ở đây</b></a><br />
+      <sub><a href="#sponsoring">Tài trợ Concat</a> và tên, logo, liên kết của bạn sẽ hiện ở vị trí này</sub>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/quyen2867/cutcut/releases"><img src="https://img.shields.io/github/downloads/quyen2867/cutcut/total?style=flat-square&logo=github&logoColor=F8F8F8&label=Downloads&labelColor=212123&color=b394ff" alt="Total Downloads" /></a>
-  <a href="https://github.com/quyen2867/cutcut/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/quyen2867/cutcut/ci.yml?style=flat&logo=githubactions&logoColor=F8F8F8&label=Build&labelColor=000000" alt="Build Status" /></a>
-  <a href="https://github.com/quyen2867/cutcut/releases"><img src="https://img.shields.io/badge/Version-0.2.4-b394ff?style=flat-square&logo=semver&logoColor=F8F8F8&labelColor=212123" alt="Concat Version 0.2.4" /></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-AGPL%20v3-b394ff?style=flat-square&logo=gnu&logoColor=F8F8F8&labelColor=212123" alt="License: AGPL-3.0-or-later" /></a>
+  <a href="https://github.com/quyen2867/cutcut/releases"><img src="https://img.shields.io/github/downloads/quyen2867/cutcut/total?style=flat-square&logo=github&logoColor=F8F8F8&label=Downloads&labelColor=212123&color=b394ff" alt="Tổng lượt tải" /></a>
+  <a href="https://github.com/quyen2867/cutcut/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/quyen2867/cutcut/ci.yml?style=flat&logo=githubactions&logoColor=F8F8F8&label=Build&labelColor=000000" alt="Trạng thái Build" /></a>
+  <a href="https://github.com/quyen2867/cutcut/releases"><img src="https://img.shields.io/badge/Version-0.2.4-b394ff?style=flat-square&logo=semver&logoColor=F8F8F8&labelColor=212123" alt="Concat Phiên bản 0.2.4" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-AGPL%20v3-b394ff?style=flat-square&logo=gnu&logoColor=F8F8F8&labelColor=212123" alt="Giấy phép: AGPL-3.0-or-later" /></a>
 </p>
 
 
 </div>
 
-<p align="center">
-  <b>English</b> | <a href="./README.vi.md">Tiếng Việt</a>
-</p>
+## Giới thiệu
 
-## About
+Concat là trình chỉnh sửa video miễn phí, mã nguồn mở, thay thế CapCut cho macOS, Windows, Linux và Android. Nó bao phủ đúng những việc mà mọi người hay mở CapCut để làm: phụ đề tự động, chuyển văn bản thành giọng nói, xóa phông nền, animation keyframe, hiệu ứng và tiêu đề, cắt ghép nhiều track, xuất 4K. Mà không kèm điều kiện nào: không watermark, không tài khoản, không gói thuê bao, không upload.
 
-Concat is a free, open-source video editor and a CapCut alternative for macOS, Windows, Linux and Android. It covers what people actually open CapCut for: auto-captions, text-to-speech, background removal, keyframe animation, effects and titles, multi-track cutting, 4K export. With none of the catches: no watermark, no account, no subscription, no upload.
+Mọi thứ chạy hoàn toàn trên máy bạn với engine Rust gốc và GPU compositor. Cài vào, thả footage vào, cắt thôi. Các model AI cho phụ đề, giọng đọc và tách nền chỉ cần tải một lần trong Settings, sau đó chạy offline. Video của bạn không bao giờ rời khỏi ổ cứng.
 
-Everything runs locally on a native Rust engine with a GPU compositor. Install it, drop in footage, cut. The AI models for captions, voices and cutout download once from Settings and work offline after that. Your footage never leaves your disk.
+**Phù hợp cho:** TikTok, Reels và Shorts, video YouTube, tutorial và quay màn hình, cắt podcast, meme.
 
-**Good for:** TikTok, Reels and Shorts, YouTube videos, tutorials and screen recordings, podcast clips, memes.
+**Cho cả máy móc:** API JSON-RPC, gRPC và MCP, nên script và AI agent cũng có thể cắt video với nó.
 
-**Also for machines:** a JSON-RPC, gRPC and MCP API, so scripts and AI agents can cut video with it too.
+## Điểm nổi bật
 
-## Highlights
+- 🚫 **Không watermark. Không tài khoản. Không paywall.** Vĩnh viễn.
+- 🔒 **100% chạy trên máy.** Không upload gì cả. Chạy offline.
+- 💬 **Phụ đề tự động.** Whisper chạy trên máy. Chọn kích cỡ model, nhận phụ đề có style ngay trên timeline.
+- 🗣️ **Chuyển văn bản thành giọng nói + nhân bản giọng.** Giọng miễn phí chạy trên máy, hoặc clone bất kỳ giọng nào chỉ từ vài giây ghi âm.
+- 🧍 **Xóa phông nền.** Tách người, tách vật thể, hoặc tự vẽ mask.
+- 🎞️ **Keyframe.** Vị trí, tỉ lệ, xoay, độ trong suốt, âm lượng, thông số hiệu ứng. Có sẵn trình sửa đường cong.
+- ✨ **170+ hiệu ứng, bộ lọc, chuyển cảnh và animation chữ.** Render bằng GPU, xem trực tiếp trên preview.
+- ✂️ **Cắt nhanh.** Split, trim, ripple, merge, freeze frame, tốc độ. Có magnetic timeline nếu bạn muốn.
+- 🎚️ **Đa track, đa timeline.** Nhiều bản cắt trong một project. Có blend mode, crop, lật hình.
+- 📝 **Tiêu đề.** Font chữ, viền, bóng đổ, nền. Có preset để bắt đầu nhanh.
+- 🎙️ **Lọc giọng một chạm.** Khử ồn, làm đẹp giọng, cân bằng độ lớn. Thêm giọng chipmunk, robot, điện thoại và nhiều hiệu ứng khác.
+- 📤 **Xuất file.** H.264, HEVC, AV1. Tối đa 4K 60fps, màu 10-bit.
+- 🦀 **Engine Rust gốc.** GPU compositor, proxy, giải mã phần cứng. Kéo timeline 4K mượt.
+- 🤖 **Điều khiển bằng script.** API JSON-RPC, gRPC và MCP, kèm CLI. AI agent có thể cắt video với nó.
+- 🖥️ **macOS, Windows, Linux, Android.** 14 ngôn ngữ. Cùng một app, cùng file project.
 
-- 🚫 **No watermarks. No account. No paywall.** Ever.
-- 🔒 **100% local.** Nothing uploads. Works offline.
-- 💬 **Auto-captions.** Local Whisper. Pick a model size, get styled captions on the timeline.
-- 🗣️ **Text-to-speech + voice cloning.** Free local voices, or any voice from a few seconds of a recording.
-- 🧍 **Background removal.** People, objects, or paint the mask yourself.
-- 🎞️ **Keyframes.** Position, scale, rotation, opacity, volume, effect parameters. Curve editor built in.
-- ✨ **170+ effects, filters, transitions and text animations.** GPU-rendered, live in the preview.
-- ✂️ **Cut fast.** Split, trim, ripple, merge, freeze frame, speed. Magnetic timeline if you want it.
-- 🎚️ **Multi-track, multi-timeline.** Several cuts in one project. Blend modes, crop, flips.
-- 📝 **Titles.** Fonts, stroke, shadow, background plate. Presets to start from.
-- 🎙️ **One-switch voice cleanup.** Denoise, enhance voice, level the loudness. Plus chipmunk, robot, telephone and friends.
-- 📤 **Export.** H.264, HEVC, AV1. Up to 4K 60, 10-bit colour.
-- 🦀 **Native Rust engine.** GPU compositor, proxies, hardware decode. 4K scrubs smoothly.
-- 🤖 **Scriptable.** JSON-RPC, gRPC and MCP API, plus a CLI. AI agents can cut video with it.
-- 🖥️ **macOS, Windows, Linux, Android.** 14 languages. Same app, same project files.
+## Tải về
 
-## Download
+Có 2 cách:
 
-Two ways in:
+1. **[Trang web chính](https://concatenate.pages.dev/#download)** sẽ đưa bạn đúng bản build cho máy của mình. Hãy bắt đầu từ đây.
+2. **[GitHub Releases](https://github.com/quyen2867/cutcut/releases)** có đầy đủ build cho mọi nền tảng, kèm bộ cài, package và checksum. Dùng khi bạn muốn tự chọn.
 
-1. **[The website](https://concatenate.pages.dev/#download)** hands you the right build for your machine. Start here.
-2. **[GitHub Releases](https://github.com/quyen2867/cutcut/releases)** has every build for every platform, with installers, packages and checksums. For when you want to pick.
+Concat đang ở giai đoạn **beta**: dùng được rồi, nhưng vẫn còn góc cạnh. Thấy lỗi thì [báo ở đây](https://github.com/quyen2867/cutcut/issues).
 
-Concat is in **beta**: it works, and it still has edges. [Say so](https://github.com/quyen2867/cutcut/issues) when you find one.
-
-**Platforms**
+**Nền tảng**
 
 - ✅ **Windows** · x86_64
-- ✅ **macOS** · Intel and Apple silicon. The binaries are unsigned, so if macOS refuses to open it: `xattr -dr com.apple.quarantine /Applications/Concat.app`
-- ✅ **Linux** · x86_64 and ARM. `.deb`, `.rpm`, `.AppImage` and an Arch package
-- ✅ **Android** · phones and tablets
-- 🧪 **iOS / iPadOS** · iPhone and iPad, sideloaded
+- ✅ **macOS** · Intel và Apple silicon. File binary chưa được ký, nếu macOS không cho mở thì chạy: `xattr -dr com.apple.quarantine /Applications/Concat.app`
+- ✅ **Linux** · x86_64 và ARM. Có `.deb`, `.rpm`, `.AppImage` và gói Arch
+- ✅ **Android** · điện thoại và máy tính bảng
+- 🧪 **iOS / iPadOS** · iPhone và iPad, cài sideload
 
-✅ Supported · 🚧 Work in progress · 🧪 To be tested
+✅ Được hỗ trợ · 🚧 Đang phát triển · 🧪 Chờ kiểm tra
 
-**System requirements**
+**Cấu hình yêu cầu**
 
-Concat runs everything on your machine, so the hardware sets the ceiling. Minimum is what a build runs on at all; recommended is what makes 1080p editing feel smooth and keeps 4K exports and captions from being a wait.
+Concat chạy mọi thứ trên máy bạn, nên phần cứng quyết định giới hạn. Cấu hình tối thiểu là để chạy được; cấu hình đề nghị là để edit 1080p mượt và export 4K + chạy phụ đề không phải chờ lâu.
 
-| | Minimum | Recommended |
+| | Tối thiểu | Đề nghị |
 |---|---|---|
-| **CPU** | Any 64-bit processor from 2013 or later | 6 cores or more |
-| **GPU** | None. Without a usable GPU the window and monitor fall back to the CPU | Any GPU with Metal (macOS), DirectX 12 (Windows) or Vulkan (Linux) |
-| **RAM** | **4 GB** | **16 GB** for 4K timelines and the larger caption models |
-| **Storage** | **500 MB** for the app and the smallest caption model | **2 GB** for every optional model, plus room for projects and exports |
+| **CPU** | CPU 64-bit bất kỳ từ 2013 trở lên | 6 nhân trở lên |
+| **GPU** | Không cần. Không có GPU thì cửa sổ và màn preview sẽ dùng CPU | GPU hỗ trợ Metal (macOS), DirectX 12 (Windows) hoặc Vulkan (Linux) |
+| **RAM** | **4 GB** | **16 GB** cho timeline 4K và model phụ đề lớn |
+| **Ổ cứng** | **500 MB** cho app và model phụ đề nhỏ nhất | **2 GB** cho mọi model tùy chọn, cộng chỗ cho project và file xuất |
 
-Optional models download from Settings on first use and then never need the network again: auto-captions 78 MB to 488 MB depending on the whisper size you pick, text-to-speech 132 MB or 349 MB, person cutout 15 MB, object cutout 179 MB, and the cutout brush 40 MB.
+Các model tùy chọn tải trong Settings lần đầu rồi sau đó không cần mạng nữa: phụ đề tự động 78 MB tới 488 MB tùy cỡ whisper bạn chọn, chuyển văn bản thành giọng 132 MB hoặc 349 MB, tách người 15 MB, tách vật 179 MB, và cọ tách nền 40 MB.
 
-## Get started
+## Bắt đầu
 
-Download it, open it, drop footage in, cut. No account, no setup.
+Tải về, mở lên, thả footage vào, cắt. Không tài khoản, không setup.
 
-**Reporting something:** every run writes a log, and Settings › About has the button that opens it along with the one that copies your system information. Attach both to an [issue](https://github.com/quyen2867/cutcut/issues) and the report arrives with everything it needs. The last ten runs are kept, so yesterday's is still there; nothing is ever sent anywhere on its own.
+**Báo lỗi:** mỗi lần chạy đều ghi log, trong Settings › About có nút mở log và nút copy thông tin máy. Đính kèm cả 2 vào một [issue](https://github.com/quyen2867/cutcut/issues) là báo cáo đã đủ thông tin. 10 lần chạy gần nhất được giữ lại, nên log hôm qua vẫn còn; không có gì tự gửi đi đâu cả.
 
-## How to Contribute
+## Đóng góp
 
 > [!IMPORTANT]
-> The best way to contribute is to grab a build from the [Releases](https://github.com/quyen2867/cutcut/releases) page and use it: find where it breaks, and say where it could be better.
+> Cách đóng góp tốt nhất là tải một bản build ở trang [Releases](https://github.com/quyen2867/cutcut/releases) về dùng: tìm xem nó hỏng ở đâu, và góp ý chỗ nào làm tốt hơn được.
 >
-> Ready to write code? [CONTRIBUTING.md](./CONTRIBUTING.md) covers setup, the layout of the tree, the checks to run, and how contributions are licensed. Driving Concat from a script, a service or an agent? [docs/](./docs/README.md) is the developer reference for the Concat API and its transports: JSON-RPC, gRPC and MCP. [This Discussion](https://github.com/quyen2867/cutcut/discussions/3) is where the project was announced.
+> Muốn viết code? File [CONTRIBUTING.md](./CONTRIBUTING.md) hướng dẫn setup, cấu trúc thư mục, các check phải chạy, và cách cấp phép đóng góp. Muốn điều khiển Concat từ script, service hay agent? Thư mục [docs/](./docs/README.md) là tài liệu dev cho Concat API với các giao thức JSON-RPC, gRPC và MCP. [Discussion này](https://github.com/quyen2867/cutcut/discussions/3) là nơi project được công bố.
 
-## Contributors
+## Người đóng góp
 
 <a href="https://github.com/quyen2867/cutcut/graphs/contributors">
-  <img alt="Contributors" src="https://contrib.rocks/image?repo=quyen2867/cutcut">
+  <img alt="Người đóng góp" src="https://contrib.rocks/image?repo=quyen2867/cutcut">
 </a>
 
-## Star History
+## Lịch sử Star
 
 <a href="https://www.star-history.com/?repos=quyen2867%2Fcutcut&type=date&releases=&legend=bottom-right">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=quyen2867/cutcut&type=date&theme=dark&legend=bottom-right" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=quyen2867/cutcut&type=date&legend=bottom-right" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=quyen2867/cutcut&type=date&legend=bottom-right" />
+   <img alt="Biểu đồ lịch sử Star" src="https://api.star-history.com/chart?repos=quyen2867/cutcut&type=date&legend=bottom-right" />
  </picture>
 </a>
-
